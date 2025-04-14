@@ -1,0 +1,842 @@
+{
+  "Question1": {
+    "questions": [
+      "Where can I get the Cash Solution software?",
+      "Please provide a link to download the Cash Solution."
+    ],
+    "answer": "You can download the latest version of Cash Solution from this link: <a href='https://www.certificate.digital/download/?app=CashSolution' target='_blank'>Download Cash Solution</a>."
+  },
+  "Question2": {
+    "questions": [
+      "What should I do if the Cash Solution app is closed or doesn’t open?",
+      "Cash Solution shows 'already running' but it's not opening—what to do?",
+      "Why does Cash Solution show 'already running' even when it's closed?",
+      "How can I check if Cash Solution is running in the background?"
+    ],
+    "answer": "If the Cash Solution app is not opening and shows 'already running', follow these steps:\n\n1. Check the hidden icons in the taskbar (bottom-right corner of the screen).\n2. If you see the Cash Solution icon, right-click it and select 'Exit'.\n3. Try reopening the application.\n\nIf the icon isn’t visible, follow these steps:\n\n1. Press Ctrl + Shift + Esc to open Task Manager.\n2. Look for 'Cash Solution' under the 'Processes' tab.\n3. If found, right-click on it and select 'End Task'.\n4. Now try opening the app again."
+  },
+  "Question3": {
+    "questions": [
+      "Where do I install token drivers from?",
+      "Please provide the link to install a token driver.",
+      "From where can I install a token driver?"
+    ],
+    "answer": "You can install the required token drivers from the official link below:\n\n<a href=\"https://www.certificate.digital/hardware/\" target=\"_blank\">https://www.certificate.digital/hardware/</a>"
+  },
+  "Question4": {
+    "questions": [
+      "Forgot eKYC PIN?",
+      "How to generate a new EKYC pin?",
+      "What should I do if I forgot my eKYC PIN?"
+    ],
+    "answer": "If you’ve forgotten your eKYC PIN, you can easily reset it using the link below:\n\n<a href=\"https://www.capricornid.com/forgetpin/\" target=\"_blank\">https://www.capricornid.com/forgetpin/</a>\n\nJust follow the steps on the page to generate a new PIN instantly."
+  },
+  "Question5": {
+    "questions": [
+      "What documents are required for Organization Authorised Signatory / Employee / Foreign Individual / Foreign Organization DSC?",
+      "Please share the Organization Document list?",
+      "What documents are required for Individual / Proprietorship / Partnership / LLP / Corporate Entity / NGO / Trust?"
+    ],
+    "answer": "To view the list of required documents for:\n- Individual / Proprietorship / Partnership / LLP / Corporate Entity / NGO / Trust\n- Employee / Foreign Individual / Foreign Organization\n\nClick on the link below to download the complete document checklist:\n\n<a href=\"https://drive.google.com/file/d/1Ww8Tsl0TE68ok5chj3_7ovDw8DnrBbhs/view\" target=\"_blank\">Download Document Checklist</a>"
+  },
+  "Question6": {
+    "questions": [
+      "How do I register as a Business Partner with Capricorn CA?",
+      "How can I take business partner login?",
+      "How can I take Capricorn franchise, to start business with you?"
+    ],
+    "answer": "To register as a Capricorn Business Partner, follow these steps:\n\n1. Visit the official registration page:\n   <a href=\"https://www.capricornca.com/web/partner/registration/\" target=\"_blank\">Register as a Business Partner</a>\n2. Select the type of account you want to register.\n3. Fill in your personal details – Name, Email, Mobile Number, and Date of Birth.\n4. Enter your Address and PIN code.\n5. (Optional) Provide your Organization Details – GSTIN and PAN, if applicable.\n6. Verify your email through the OTP sent to your inbox.\n7. Once verified, your login password will be sent to your registered email.\n\nYou can then use these credentials to log in and start your journey as a Capricorn Business Partner."
+  },
+  "Question7": {
+    "questions": [
+      "How to receive my commission amount?",
+      "How can I claim the commission?",
+      "What is the process to get commission?"
+    ],
+    "answer": "To receive your commission:\n\n1. Verify your bank details and e-sign the agreement.\n\n2. The commission will be credited to your verified bank account between Monday to Friday (working days).\n\n3. If you have a GST number, you must upload an invoice:\n   - Go to the 'Account' section and then to the 'Request Money' section.\n   - Click on 'Revenue Invoice Format' to download the invoice template.\n   - Fill in the details and upload the invoice.\n\nMake sure all steps are completed to ensure timely payment."
+  },
+  "Question8": {
+    "questions": [
+      "How can I download my encryption certificate in .pfx format from the portal?",
+      "How to download encryption certificates?",
+      "How to import an encryption certificate into the token?"
+    ],
+    "answer": "To download your encryption certificate in .pfx format and import it into the token, please follow the step-by-step guide provided in the link below:\n\n<a href=\"https://drive.google.com/file/d/1DmPE-UoT7XlaBRWHSivk6ntLLiBQnfXM/view?usp=drive_link\" target=\"_blank\">Download Guide for Encryption Certificate</a>"
+  },
+  "Question9": {
+    "questions": [
+      "How can I obtain the old encryption certificate in .pfx format?",
+      "How can I get an old serial number of .PFX/encryption after the certificate expires?"
+    ],
+    "answer": "To obtain your old encryption certificate in .pfx format or its serial number after expiry:\n\n1. Login to the customer portal through this link:\n   <a href=\"https://secure.certificate.digital\" target=\"_blank\">https://secure.certificate.digital</a>\n\n2. Go to the 'Encryption-PFX-Download' section.\n3. As per IVG 2.0 guidelines, upload a 30-second video for verification.\n4. Urgent download is a paid service.\n5. Free processing may take up to 20 days."
+  },
+  "Question10": {
+    "questions": [
+      "I made a payment for my DSC order, but the status still shows pending. What should I do next?",
+      "Already made the payment but still showing pending.",
+      "The order payment has to be done, please update in order."
+    ],
+    "answer": "Send an email with your Order ID and Transaction ID to: <a href=\"mailto:backoff@capricornid.com\">backoff@capricornid.com</a>"
+  },
+  "Question11": {
+    "questions": [
+      "How to revoke DSC?",
+      "What is the process to revoke a DSC?",
+      "How do I cancel or revoke my DSC?"
+    ],
+    "answer": "Follow the steps in the document below to revoke your DSC:\n\n<a href=\"https://drive.google.com/file/d/19NptPOqgm9re4CU99DGKbE-CcYCnkm3P/view\" target=\"_blank\">Revoke DSC – Download Guide</a>"
+  },
+  "Question12": {
+    "questions": [
+      "How to Register DSC on EPFO Portal?",
+      "What’s the process to register DSC on the EPFO portal?",
+      "Can you guide me to register DSC on the EPFO portal?"
+    ],
+    "answer": "To register your DSC on the EPFO portal, please follow these steps:\n\n1. Log in to the EPFO employer portal:\n   <a href=\"https://unifiedportal-emp.epfindia.gov.in/epfo/\" target=\"_blank\">https://unifiedportal-emp.epfindia.gov.in/epfo/</a>\n\n2. Follow the step-by-step guide provided here:\n   <a href=\"https://docs.google.com/document/d/1G_So-UGZFFFnY6efqhwylEccMAGn8vmF1P4LFqKUlO4/edit?tab=t.0\" target=\"_blank\">EPFO DSC Registration Guide</a>\n\nMake sure your DSC is connected and the drivers are installed properly before starting the process."
+  },
+  "Question13": {
+    "questions": [
+      "How to apply to the Govt authorize signatory DSC?",
+      "What is the process to create a Govt DSC?"
+    ],
+    "answer": "To apply for a Government Authorized Signatory DSC, please follow the step-by-step instructions provided in the guide below:\n\n<a href=\"https://drive.google.com/file/d/1UUL4z7OLZ53hGLTbcXDVfP2foasGmxIl/view?usp=drive_link\" target=\"_blank\">Govt Authorized Signatory DSC Guide</a>"
+  },
+  "Question14": {
+    "questions": [
+      "How to create a government employee DSC?",
+      "What is the process to create a govt employee DSC under authorized signatory?"
+    ],
+    "answer": "To create a Government Employee DSC under the Authorized Signatory category, please follow the detailed steps provided in the guide below:\n\n<a href=\"https://drive.google.com/file/d/15WA9juip1P7X1-ge-CRVX-BqKE_gAYEC/view?usp=drive_link\" target=\"_blank\">Govt Employee DSC Creation Guide</a>"
+  },
+  "Question15": {
+    "questions": [
+      "How to do ORG/GOVT authorize signatory approval?",
+      "How to complete authorize signatory approval of employee order?",
+      "What is the process of authorized signatory approval?"
+    ],
+    "answer": "To complete Authorized Signatory approval for ORG/GOVT employee orders, please follow the detailed steps provided in the guide below:\n\n<a href=\"https://drive.google.com/file/d/1D6gOfrHWu4e_h4tbBwPTKDxPKzCRjXjJ/view?usp=drive_link\" target=\"_blank\">Authorized Signatory Approval Guide</a>"
+  },
+  "Question16": {
+    "questions": [
+      "Which tokens are compatible for DSC download?",
+      "Which token should I purchase to download?",
+      "Which tokens can I use to download my DSC?",
+      "What are the compatible tokens for DSC?"
+    ],
+    "answer": "The following updated tokens are compatible for downloading and using your Digital Signature Certificate (DSC):\n\n• Hyper USB Token (Hyper2003)\n• WD ProxKey Token\n• M-Token\n\nMake sure the token is FIPS-certified and updated with the latest drivers for smooth DSC functionality."
+  },
+  "Question17": {
+    "questions": [
+      "Unable to verify my assistance code due to time expiration. What should I do?",
+      "How do I proceed if my assistance code has expired?"
+    ],
+    "answer": "Assistance codes must be updated within 48 hours of downloading the order."
+  },
+  "Question18": {
+    "questions": [
+      "Not receiving OTP for telecom service mobile verification. What should I do?",
+      "I’m not receiving the OTP in pan based order for mobile verification, what should I do?",
+      "What can I do if the OTP for telecom service verification doesn’t arrive?"
+    ],
+    "answer": "You are requested to reject the order and proceed with an Aadhaar-based order."
+  },
+  "Question19": {
+    "questions": [
+      "How can a mute person complete DSC video verification?",
+      "How can a person who is deaf or mute communicate during DSC video verification?",
+      "What options are available for a person who cannot speak but needs to verify their identity for DSC?"
+    ],
+    "answer": "1. Write & Show: The CA executive displays a 3-digit code. You write it on paper and show it in the video.\n2. Hand Signs: Use fingers to show the numbers.\n3. Aadhaar Option: If possible, use Aadhaar biometric instead of video."
+  },
+  "Question20": {
+    "questions": [
+      "How many days do I have to download my DSC after approval?",
+      "Is there a time limit to access or download my DSC after it is approved?",
+      "How many days are allowed to download DSC after receiving approval?"
+    ],
+    "answer": "You have 30 days from the approval date to download your DSC.\nAfter 30 days, you must re-record video to re-verify your identity before downloading."
+  },
+  "Question21": {
+    "questions": [
+      "What does Capricorn identity services company do?",
+      "What services are offered by Capricorn Identity Services?"
+    ],
+    "answer": "Capricorn Identity Services Pvt. Ltd. is a Licensed Certifying Authority (CA) approved by India's Controller of Certifying Authorities (CCA).\n\n<b>Key Services:</b>\n\n1. <b>Digital Signature Certificates (DSC):</b>\n- Legally valid for signing documents online (GST filings, tenders, company registrations).\n- Types: Class 2, Class 3, and Document Signer DSCs.\n\n2. <b>Digital Signing Solutions:</b>\n- Sign PDFs, contracts, emails securely.\n- Works for individuals, businesses, and government agencies.\n\n3. <b>PKI & eSigning:</b>\n- Secure online transactions with Public Key Infrastructure (PKI).\n\n4. <b>Where DSCs Are Used?</b>\n- Government: GST, Income Tax, MCA filings.\n- Business: Tenders, banking, foreign trade.\n- Legal: Document signing, contracts, etc.\n\n5. <b>Why Choose Capricorn?</b>\n✔️ CCA-approved\n✔️ Fast Aadhaar/Video verification\n✔️ 24/7 support\n\nVisit: <a href=\"https://www.certificate.digital/\" target=\"_blank\">https://www.certificate.digital/</a>"
+  },
+  "Question22": {
+    "questions": [
+      "Getting error while processing order Error! Order not allowed for one/all of the details (accompany name, applicant name, email) [RESERVATED LIST].",
+      "Why am I receiving the error “error!Order not allowed for one/all of the details (accompany name, applicant name, email) [RESERVED LIST]\" while processing my order?",
+      "How can I resolve the error stating \"Error!Order not allowed for one/all of the details (accompany name, applicant name, email) [RESERVED LIST]\"?"
+    ],
+    "answer": "Please check the Gmail/email spelling in the order details and correct it."
+  },
+  "Question23": {
+    "questions": [
+      "How many types of Digital signature certificate (DSC) are there?",
+      "How many types of DSCs are officially recognized in India?",
+      "What are the different types of Digital Signature Certificates (DSC) used in India?",
+      "Digital Signature Certificates are categorized into different classes in India. Can you tell how many main types are officially recognized?"
+    ],
+    "answer": "There are three main types of Digital Signature Certificates (DSCs) in India, as per CCA guidelines:\n\n1. <b>Class 2 DSC</b> (Now merged into Class 3)\n- Was used for individual identity verification (e.g., ITR filing, company registrations)\n- Verified identity against a pre-verified database\n\n2. <b>Class 3 DSC</b>\n- Used for high-security transactions like GST, e-Tendering, MCA filings\n- Requires FIPS 140-2 certified USB token and video/in-person verification\n\n3. <b>Document Signer Certificate</b>\n- Issued to organizations (not individuals)\n- Used for automated document signing\n- Requires proper authorization from the organization"
+  },
+  "Question24": {
+    "questions": [
+      "What is revocation and rejection?",
+      "What is the meaning of rejection and revocation?",
+      "What is the meaning of revoke and reject order?"
+    ],
+    "answer": "<b>Revocation</b> means cancelling an already issued DSC before its expiry. Once revoked, it cannot be used again. This is a permanent action.\n\n<b>Rejection</b> refers to the denial of a DSC application during verification. This happens due to incorrect details, invalid documents, or failed verification. No certificate is issued in this case."
+  },
+  "Question25": {
+    "questions": [
+      "What is the difference between Individual and Organization DSC?",
+      "Can you explain the difference between Individual DSC and Org DSC?",
+      "Is there any difference between Org DSC and Individual DSC?"
+    ],
+    "answer": "<b>Individual DSC:</b>\n- Issued in a person's own name\n- Used for personal purposes like ITR, MCA compliance\n- Not linked to any organization\n\n<b>Organization DSC:</b>\n- Issued to an authorized signatory of a company, firm, or government body\n- Used for official purposes (e.g., GST, tenders)\n- Includes both the individual's and the organization's name on the certificate"
+  },
+  "Question26": {
+    "questions": [
+      "I’m getting an error: PAN not linked with DSC on the Income Tax portal.",
+      "How do I fix the PAN and DSC linking error on the IT portal?",
+      "Getting error: “PAN not linked to DSC” – how to resolve this?",
+      "PAN mismatch error with DSC – how can I fix it?"
+    ],
+    "answer": "The error “PAN not linked to DSC” usually occurs when the PAN is not entered correctly or is missing in the application form.\n\n<b>To fix this:</b>\n1. Log in to the Customer Portal: <a href=\"https://secure.certificate.digital\" target=\"_blank\">https://secure.certificate.digital</a>\n2. Go to the ‘Form & Agreement’ section.\n3. Check the last page of the form and ensure the PAN number is correct.\n\nIf incorrect or missing, you must create a new DSC with the correct PAN."
+  },
+  "Question27": {
+    "questions": [
+      "While downloading the DSC I got an error “Invalid details provided”.",
+      "While downloading my DSC, it says the details are invalid.",
+      "Getting an error: “Invalid details provided” while downloading the DSC."
+    ],
+    "answer": "If you see the error “Invalid details provided” while downloading the DSC, follow these steps:\n\n1. Log in to the customer portal: <a href=\"https://secure.certificate.digital/app/login/?ekyclogin\" target=\"_blank\">https://secure.certificate.digital/app/login/?ekyclogin</a>\n2. Go to the ‘Download DSC’ section.\n3. Double-check all entered details (Order ID, Postal Code, Download Key).\n4. Make sure the Download Key is correct and active.\n\nCorrect any mistakes and try again."
+  },
+  "Question28": {
+    "questions": [
+      "I want to download the DSC, but the Cash Solution is “not responding”.",
+      "The Cash Solution app is unresponsive during DSC download.",
+      "Cash Solution stuck or frozen – DSC download is not proceeding."
+    ],
+    "answer": "If Cash Solution is “not responding” while downloading the DSC, follow these steps:\n\n1. Uninstall all existing token drivers from your system.\n2. Reinstall only the correct driver for your specific token (e.g., ProxKey, M-Token, HyperUSB).\n3. Once installed, reopen the Cash Solution application.\n4. Proceed to download the DSC again."
+  },
+  "Question29": {
+    "questions": [
+      "Getting the error 'eKYC is already used in another eKYC account'. Provide the solution.",
+      "Why does it say “eKYC already exists in another account”?",
+      "Cannot proceed, showing error — “eKYC already exists in another account” ?"
+    ],
+    "answer": "The error means the eKYC ID you're trying to use is already registered in another account.\n\n<b>Solution:</b>\n- Create a new and unique eKYC ID.\n- It must be alphanumeric (mix of letters and numbers).\n- Example: rahul123, client987, etc."
+  },
+  "Question30": {
+    "questions": [
+      "How to enable re-download DSC?",
+      "What is the process to enable re-download of DSC?",
+      "I'm trying to re-download DSC, but it’s disabled — how do I enable it?"
+    ],
+    "answer": "To enable re-download:\n\n1. Log in to the Customer Portal: <a href=\"https://secure.certificate.digital/\" target=\"_blank\">https://secure.certificate.digital/</a>\n2. Click on “Re-download” from the menu.\n3. Select “Enable Re-download”.\n4. Now, you can download the DSC again using the Cash Solution app."
+  },
+  "Question31": {
+    "questions": [
+      "Does Capricorn sell USB tokens?",
+      "Can I purchase a USB token from you?",
+      "Do I have to order USB tokens in bulk or can I buy just one?"
+    ],
+    "answer": "Yes, Capricorn sells USB tokens — both individually and in bulk. You can purchase as per your need.\n\nFor pricing and stock, contact:\n📧 <b>sales@certificate.digital</b>\n📞 <b>01161400000</b>"
+  },
+  "Question32": {
+    "questions": [
+      "What is the password of the .pfx file?",
+      "Is there a default password for the PFX/encryption certificate?",
+      "What should I enter as the password when installing the .pfx certificate?",
+      "While installing DSC, it asks for a password — what should I use?"
+    ],
+    "answer": "The password for the .pfx (encryption certificate) is your <b>Download Key</b> used during DSC download."
+  },
+  "Question33": {
+    "questions": [
+      "The password I entered for the .pfx file doesn't work — how can I change it?",
+      "How do I modify the password of my encryption certificate?",
+      "How to reset or change the password of a .pfx certificate?"
+    ],
+    "answer": "To reset or change your .pfx password, use this step-by-step guide:\n\n🔗 <a href=\"https://www.certificate.digital/download/how-to-export-pfx.pdf\" target=\"_blank\">How to Modify PFX Password</a>\n\n<b>Note:</b> You will need the original PFX file and the current password (if known) to proceed."
+  },
+  "Question34": {
+    "questions": [
+      "Are there any job openings?",
+      "Is Capricorn hiring right now?",
+      "Where can I send my resume for a job at Capricorn?"
+    ],
+    "answer": "Interested in joining Capricorn? Share your resume with our HR team:\n📧 <b>HR@capricornid.com</b>\nThey’ll contact you if a suitable position is available."
+  },
+  "Question35": {
+    "questions": [
+      "How can I check if the token is updated or old?",
+      "How do I know whether my DSC token is from the new series or old?",
+      "How do I know what series my token belongs to?",
+      "How to identify if the token is an old model or the latest one?"
+    ],
+    "answer": "You can identify your token by checking the serial prefix:\n\n- <b>Hyper2003 Token</b> → Starts with “HS”\n- <b>WD ProxKey Token</b> → Starts with “WD”\n- <b>M-Token / Crypto Token</b> → Starts with “CL”\n\n📘 Guide: <a href=\"https://www.certificate.digital/download/how-to-identify-series-tokens.pdf\" target=\"_blank\">How to Identify Series Tokens</a>"
+  },
+  "Question36": {
+    "questions": [
+      "The income tax portal shows that PAN and Aadhaar are linked, but in the Order ID it is not updated. How to resolve this?",
+      "PAN-Aadhaar link is active, but not reflecting in the DSC order. What can I do?",
+      "Income Tax portal shows link done, but it's missing in my DSC order — how do I fix it?",
+      "Aadhaar is linked with PAN, but the order still shows it's not updated. How to resolve this?"
+    ],
+    "answer": "If the Income Tax portal shows your PAN and Aadhaar are linked but it isn’t updated in the order, follow these steps:\n\n1. Log in to the Customer Portal: <a href=\"https://secure.certificate.digital/\" target=\"_blank\">https://secure.certificate.digital/</a>\n2. Go to the “Action” tab.\n3. Remove the existing PAN number.\n4. Re-enter the PAN and complete PAN verification again."
+  },
+  "Question37": {
+    "questions": [
+      "Are you there?",
+      "Can you help me?",
+      "Is anyone here to assist me?",
+      "Hello? Are you online?",
+      "I need help — can you assist me?"
+    ],
+    "answer": "Absolutely! Let me know what you're looking for—buying a DSC, checking order status, updating details, or anything else. I'm here to help you."
+  },
+  "Question38": {
+    "questions": [
+      "Is it possible to edit my DSC details after download?",
+      "Can we modify a DSC order after downloading the certificate?"
+    ],
+    "answer": "No, you cannot modify a DSC after downloading it. Here’s why:\n\n<b>Technical Reason:</b>\n- A DSC is cryptographically issued with fixed details (name, email, PAN, etc.).\n- Any change requires issuing a completely new certificate.\n\n<b>Legal Compliance:</b>\n- As per CCA guidelines, a DSC is a legally bound digital identity and cannot be altered.\n\n<b>What You Can Do Instead:</b>\n✔ Submit a fresh DSC application with updated details.\n✔ Revoke the old DSC if no longer required."
+  },
+  "Question39": {
+    "questions": [
+      "How to check order status?"
+    ],
+    "answer": "Please log in to your <a href=\"https://secure.certificate.digital/\" target=\"_blank\">Capricorn Customer Portal</a> using your registered mobile number or email address.\nOnce logged in, navigate to the ‘Action’ tab to view the current order status. (Related to: Capricorn Customer Portal)"
+  },
+  "Question40": {
+    "questions": [
+      "How do I purchase a Digital Certificate?"
+    ],
+    "answer": "Please visit <a href=\"https://secure.certificate.digital/buy-digital-signature/\" target=\"_blank\">this page</a> to buy a digital signature certificate. Select the required product and proceed as per the instructions. (Related to: Buying a Digital Signature Certificate)"
+  },
+  "Question41": {
+    "questions": [
+      "I want to purchase DSC for the IREPS portal"
+    ],
+    "answer": "You need to apply for an Organization-based Signing with Encryption DSC for the IREPS portal.<br>Apply using: <a href=\"https://secure.certificate.digital/buy-digital-signature/\" target=\"_blank\">this link</a> (Related to: Purchase Page)<br>Refer to the detailed guide here: <a href=\"https://www.certificate.digital/repository/procedure/organization-signatory-dsc.pdf\" target=\"_blank\">Organization Signatory DSC Guide (PDF)</a>"
+  },
+  "Question42": {
+    "questions": [
+      "What type of DSC do I need to purchase for Income Tax filing?"
+    ],
+    "answer": "You need a Class 3 Individual DSC for Income Tax e-filing. Make sure to apply using your PAN details so it functions correctly on the Income Tax portal."
+  },
+  "Question43": {
+    "questions": [
+      "How to use DSC on the Income Tax portal?"
+    ],
+    "answer": "Steps to use DSC on the Income Tax Portal:\n\n1. Register DSC:\n- Log in to the Income Tax e-Filing Portal\n- Go to ‘My Profile’ → ‘Register DSC’\n- Connect your USB token and select the certificate\n- Enter password and submit\n\n2. For E-Filing:\n- While filing, select ‘Sign with DSC’\n- Plug in token, choose certificate, and enter PIN/password\n- Click ‘Sign’\n\nMake sure your Embridge Utility Tool is running: <a href=\"https://embridge.emudhra.com/\" target=\"_blank\">https://embridge.emudhra.com/</a> (Related to: Embridge Utility Tool)"
+  },
+  "Question44": {
+    "questions": [
+      "How to Register DSC on EPFO Portal?"
+    ],
+    "answer": "Steps to register DSC on EPFO Portal:\n- Visit: <a href=\"https://unifiedportal-emp.epfindia.gov.in/epfo/\" target=\"_blank\">https://unifiedportal-emp.epfindia.gov.in/epfo/</a>\n- Log in with your credentials\n- Go to Establishment → e-Sign & DSC Services\n- Install DSCSigner Utility and ensure your USB token is connected\n- Enter authorized signatory details, click ‘Register Your DSC’\n- Select the certificate and enter token PIN\n- You will receive a success confirmation\n\nAfter registration, contact EPFO Helpdesk for DSC activation. (Related to: EPFO Employer Portal)"
+  },
+  "Question45": {
+    "questions": [
+      "How to use DSC on the GSTIN portal?"
+    ],
+    "answer": "Steps to use DSC on the GST Portal:\n\n1. Download & Install DSC Signer from: <a href=\"https://www.gst.gov.in/help/docsigner\" target=\"_blank\">https://www.gst.gov.in/help/docsigner</a>\n2. Install Java from: <a href=\"https://www.oracle.com/java/technologies/javase-jre8-downloads.html\" target=\"_blank\">https://www.oracle.com/java/technologies/javase-jre8-downloads.html</a>\n3. Open <a href=\"https://127.0.0.1:1585\" target=\"_blank\">https://127.0.0.1:1585</a> to verify signer is active\n4. Login to GST portal: <a href=\"http://www.gst.gov.in\" target=\"_blank\">http://www.gst.gov.in</a>\n\nRegister Your DSC:\n- Go to My Profile → Register/Update DSC\n- Connect your token, choose certificate, enter PIN\n- Submit and proceed with filing using 'Sign with DSC'\n\nEnsure DSC is Class 3 and linked with authorized signatory's PAN. (Related to: GST Portal DSC Setup)"
+  },
+  "Question46": {
+    "questions": [
+      "I am getting 'Something Went Wrong' error while using DSC on the Income Tax portal. What should I do?"
+    ],
+    "answer": "To resolve the 'Something Went Wrong' error:\n- Install latest Embridge Utility: <a href=\"https://embridge.emudhra.com/\" target=\"_blank\">https://embridge.emudhra.com/</a>\n- Make sure Embridge is running in background\n- Open: <a href=\"https://localhost.emudhra.com:26769/\" target=\"_blank\">https://localhost.emudhra.com:26769/</a> in your browser to test\n- Use a supported browser: Chrome or Firefox (latest versions)\n\nStill facing issues? Contact IT DSC Support:\n📞 1800 103 0025\n📧 efilingwebmanager@incometax.gov.in (Related to: Income Tax Portal DSC Troubleshooting)"
+  },
+  "Question47": {
+    "questions": [
+      "What is the process for obtaining a PAN-based DSC?"
+    ],
+    "answer": "To apply for a PAN-based DSC, you will need:\n- Passport-size photo\n- PAN card\n- Aadhaar card or other valid address proof\n\nApply here: <a href=\"https://secure.certificate.digital/buy-digital-signature\" target=\"_blank\">https://secure.certificate.digital/buy-digital-signature</a>\nFollow the steps and upload the required documents.\n\nRefer to detailed guide: <a href=\"https://www.certificate.digital/repository/procedure/individual-pan-based-dsc.pdf\" target=\"_blank\">PAN-based DSC Procedure (PDF)</a> (Related to: PAN-based DSC Application)"
+  },
+  "Question48": {
+    "questions": [
+      "What is the process for obtaining a Foreign Individual DSC?"
+    ],
+    "answer": "Required documents for Foreign DSC:\n- Passport\n- Address Proof (Utility Bill or Driving License – not older than 3 months)\n- PAN Card (if DSC is linked with PAN)\n\nApply at Capricorn website.\nDetailed steps here: <a href=\"https://www.certificate.digital/repository/procedure/foreign-ind-dsc.pdf\" target=\"_blank\">Foreign Individual DSC Procedure (PDF)</a> (Related to: Foreign Individual DSC)"
+  },
+  "Question49": {
+    "questions": [
+      "What is the process for obtaining an Organization DSC?"
+    ],
+    "answer": "To apply for an Organization DSC, please select your organization type:\n\n1. **Proprietorship**:\n- Proprietor’s PAN Card / Aadhaar\n- GST or Registration Certificate (if applicable)\n- Bank statement (last 3 months)\n\n2. **Private Limited**:\n- Applicant PAN / Aadhaar\n- Certificate of Incorporation\n- Organization PAN\n- GST Certificate (if applicable)\n- Board Resolution / Authorization Letter\n- Bank statement (last 3 months)\n\n3. **NGO/Trust/Society**:\n- PAN / Aadhaar of signatory\n- Registration Certificate\n- GST Certificate (if applicable)\n- Authorization letter signed by members\n\nApply via: <a href=\"https://secure.certificate.digital/buy-digital-signature\" target=\"_blank\">https://secure.certificate.digital/buy-digital-signature</a>\nStep-by-step guide PDF: <a href=\"https://www.certificate.digital/repository/procedure/organization-signatory-dsc.pdf\" target=\"_blank\">Organization DSC Procedure (PDF)</a> (Related to: Organization DSC Application)"
+  },
+  "Question50": {
+    "questions": [
+      "How do I apply for a DGFT DSC?"
+    ],
+    "answer": "To apply for a DGFT DSC:\n\n**Documents Required:**\n- IEC Certificate\n- Authorized Signatory’s PAN & Aadhaar\n- Organization’s PAN\n- GST Certificate (if applicable)\n- Board Resolution / Authorization Letter\n\nApply here: <a href=\"https://secure.certificate.digital/buy-digital-signature\" target=\"_blank\">https://secure.certificate.digital/buy-digital-signature</a>\nFollow the detailed guide: <a href=\"https://www.certificate.digital/repository/procedure/iet-dgft-dsc.pdf\" target=\"_blank\">DGFT DSC Guide (PDF)</a> (Related to: DGFT DSC)"
+  },
+  "Question51": {
+    "questions": [
+      "How do I apply for a Government DSC?"
+    ],
+    "answer": "A Government DSC is for official use by government employees/departments.\n\n**Required Documents:**\n- Passport-size photo\n- PAN / Aadhaar of applicant\n- Authorization Letter on Department Letterhead\n- Employee ID card (Applicant & Authorizer)\n- Signature ID of the Authorizer (if not on ID)\n\nApply here: <a href=\"https://secure.certificate.digital/buy-digital-signature\" target=\"_blank\">https://secure.certificate.digital/buy-digital-signature</a>\nGuide: <a href=\"https://www.certificate.digital/repository/procedure/gov-organization-dsc.pdf\" target=\"_blank\">Government DSC Guide (PDF)</a> (Related to: Government DSC)"
+  },
+  "Question52": {
+    "questions": [
+      "Which tokens are compatible for DSC download?"
+    ],
+    "answer": "You can use any of the following updated tokens:\n- Hyper2003\n- WD-Proxkey\n- M-Token"
+  },
+  "Question53": {
+    "questions": [
+      "Forgot eKYC PIN?"
+    ],
+    "answer": "To reset your eKYC PIN, please visit: <a href=\"https://www.capricornid.com/forgetpin/\" target=\"_blank\">https://www.capricornid.com/forgetpin/</a> (Related to: eKYC PIN Reset)"
+  },
+  "Question54": {
+    "questions": [
+      "What documents are required for Organization Authorised Signatory /Employee DSC?"
+    ],
+    "answer": "Refer to the complete document checklist here: <a href=\"https://drive.google.com/file/d/1Ww8Tsl0TE68ok5chj3_7ovDw8DnrBbhs/view\" target=\"_blank\">Organization Employee DSC Docs (Google Drive)</a>"
+  },
+  "Question55": {
+    "questions": [
+      "How do I retrieve a customer’s old eKYC ID?"
+    ],
+    "answer": "Log in to your Capricorn Customer Portal: <a href=\"https://secure.certificate.digital/\" target=\"_blank\">https://secure.certificate.digital/</a>\n\nGo to the specific Order ID → Click on 'More Details' → You'll find the eKYC ID information there."
+  },
+  "Question56": {
+    "questions": [
+      "How to update the authorizing person's details in an order?"
+    ],
+    "answer": "Log in to: <a href=\"https://secure.certificate.digital/\" target=\"_blank\">https://secure.certificate.digital/</a>\n\nGo to the ‘Action’ tab → Click ‘Edit’ → Click ‘Next’ → Update the Authorizing Person's Details accordingly."
+  },
+  "Question57": {
+    "questions": [
+      "How to check the order status in the Business Partner login?"
+    ],
+    "answer": "Log in to: <a href=\"https://www.capricornca.com/bp/login/\" target=\"_blank\">https://www.capricornca.com/bp/login/</a>\n\nGo to the ‘Order’ section → Right-click on the desired Order ID → View the status."
+  },
+  "Question58": {
+    "questions": [
+      "How can I check my commission for a specific product?"
+    ],
+    "answer": "Log in to the Business Partner Portal: <a href=\"https://www.capricornca.com/bp/login/\" target=\"_blank\">https://www.capricornca.com/bp/login/</a>\n\nNavigate to ‘Quick Links’ → Click on ‘Calculator’ to check commission details."
+  },
+  "Question59": {
+    "questions": [
+      "How to settle the stock of the previous login?"
+    ],
+    "answer": "Follow the detailed procedure given in this guide:\n<a href=\"https://certificate.digital/download/guide/stock-settlement.pdf\" target=\"_blank\">Stock Settlement Guide (PDF)</a>"
+  },
+  "Question60": {
+    "questions": [
+      "Unable to verify my assistance code due to time expiration. What should I do?"
+    ],
+    "answer": "Assistance codes must be verified within 48 hours of order download. If expired, please reinitiate the assistance process with a new code."
+  },
+  "Question61": {
+    "questions": [
+      "Not receiving OTP for telecom service mobile verification. What should I do?"
+    ],
+    "answer": "Please reject the current order and place a fresh Aadhaar-based DSC order for verification."
+  },
+  "Question62": {
+    "questions": [
+      "How to update bank details in the Business Partner profile?"
+    ],
+    "answer": "If your bank details are already verified, please email the updated request to: <a href=\"mailto:backoff@capricornid.com\">backoff@capricornid.com</a>"
+  },
+  "Question63": {
+    "questions": [
+      "How to receive my commission amount?"
+    ],
+    "answer": "Ensure your bank details are verified and the Agreement is e-signed. The commission will be credited to your verified bank account between Monday to Friday. If you have a GST number, upload an invoice."
+  },
+  "Question64": {
+    "questions": [
+      "The GST of my commission amount hasn’t been received. What should I do?"
+    ],
+    "answer": "Please email <a href=\"mailto:backoff@capricornid.com\">backoff@capricornid.com</a>."
+  },
+  "Question65": {
+    "questions": [
+      "Commission not received after invoice upload?"
+    ],
+    "answer": "After invoice approval, the amount will be credited within 7 working days. If rejected, check the reason in your Business Partner login dashboard."
+  },
+  "Question66": {
+    "questions": [
+      "Order processed without BP Code. How can I receive my commission?"
+    ],
+    "answer": "Send an email with the Order ID to <a href=\"mailto:backoff@capricornid.com\">backoff@capricornid.com</a>."
+  },
+  "Question67": {
+    "questions": [
+      "How to make a DSC payment?"
+    ],
+    "answer": "Log in to the Customer Portal, click on Action > Payment, and complete the payment. The payment option appears after Order Verification."
+  },
+  "Question68": {
+    "questions": [
+      "Can foreign orders be paid in Indian Rupees?"
+    ],
+    "answer": "Yes, after Order Verification, payment can be made in both Dollars and Indian Rupees."
+  },
+  "Question69": {
+    "questions": [
+      "Paid for DSC, but status still shows pending. What should I do?"
+    ],
+    "answer": "Share the Transaction ID and Order ID with <a href=\"mailto:backoff@capricornid.com\">backoff@capricornid.com</a>."
+  },
+  "Question70": {
+    "questions": [
+      "Made double payment for one order. How can I get a refund?"
+    ],
+    "answer": "Send screenshots of both payments, the Order ID, and Transaction ID to <a href=\"mailto:backoff@capricornid.com\">backoff@capricornid.com</a>."
+  },
+  "Question71": {
+    "questions": [
+      "PAN and Aadhaar are linked on the Income Tax portal, but not updated in the Order ID. What should I do?"
+    ],
+    "answer": "Log in to the Customer Portal, go to Action, remove and re-add the PAN number, then complete the PAN verification again."
+  },
+  "Question72": {
+    "questions": [
+      "Error: 'Certificate not linked with PAN' on the Income Tax portal."
+    ],
+    "answer": "Ensure the PAN number was entered during the order process by checking the Form & Agreement section in the Customer Portal."
+  },
+  "Question73": {
+    "questions": [
+      "Forgot to download DSC, and now its status is ‘Locked.’ How can I download it?"
+    ],
+    "answer": "If 30 days have passed since order verification, log in to the Customer Portal, click on 'Unlock', complete the video verification again, and once the order is re-verified, you can download the DSC."
+  },
+  "Question74": {
+    "questions": [
+      "Does a Digital Certificate work on a MacBook?"
+    ],
+    "answer": "Yes, a Digital Certificate can work on a MacBook if all DSC requirements are met."
+  },
+  "Question75": {
+    "questions": [
+      "How to change my mobile number in order?"
+    ],
+    "answer": "Mobile number cannot be changed once submitted. Please reject the Order ID and create a new one."
+  },
+  "Question76": {
+    "questions": [
+      "How to update the organization name in the Order ID?"
+    ],
+    "answer": "Log in to the Customer Portal, go to the respective order, click Action > Edit, and modify the organization name."
+  },
+  "Question77": {
+    "questions": [
+      "How to close an eKYC ID?"
+    ],
+    "answer": "Visit: <a href=\"https://www.capricornid.com/close/\" target=\"_blank\">https://www.capricornid.com/close/</a> — Enter your eKYC ID and PIN, mention the reason, enter the OTP, and submit."
+  },
+  "Question78": {
+    "questions": [
+      "How to re-download DSC?"
+    ],
+    "answer": "Log in to the Customer Portal, click Re-download > Enable Redownload, then download the DSC using Cash Solution."
+  },
+  "Question79": {
+    "questions": [
+      "Where is the .pfx/encryption certificate saved in the system?"
+    ],
+    "answer": "Once downloaded, it is saved in: Documents > Capricorn DSC > Subfolder (Download Date) > OR123XXX.pfx"
+  },
+  "Question80": {
+    "questions": [
+      "Are there any job openings?"
+    ],
+    "answer": "Send your resume to: <a href=\"mailto:HR@capricornid.com\">HR@capricornid.com</a>"
+  },
+  "Question81": {
+    "questions": [
+      "How can I purchase USB tokens?"
+    ],
+    "answer": "Please provide your contact details and specify the quantity required to proceed with the purchase."
+  },
+  "Question82": {
+    "questions": [
+      "Which DSC is required to apply for an IEC certificate?"
+    ],
+    "answer": "Class 3 IET/DGFT-based Signing DSC is required."
+  },
+  "Question83": {
+    "questions": [
+      "Foreign applicants are not receiving OTPs. How to verify mobile numbers?"
+    ],
+    "answer": "Please contact us at +91 95997 18996 from the registered number during working hours (9:30 AM to 6:30 PM IST), or request a callback via SMS or WhatsApp."
+  },
+  "Question84": {
+    "questions": [
+      "Which DSC is required for Income Tax, GST, and ROC (MCA)?"
+    ],
+    "answer": "Class 3 Signing Individual/Organization DSC is required."
+  },
+  "Question85": {
+    "questions": [
+      "What is the difference between an Individual DSC and an Organization DSC?"
+    ],
+    "answer": "Individual DSC: Used for personal filings & document signing.\nOrganization DSC: Used by companies for signing & encryption. Required for tender submissions."
+  },
+  "Question86": {
+    "questions": [
+      "How to check if a token is new or old?"
+    ],
+    "answer": "New token series start as follows:\n- Hyp2003 tokens: Start with ‘HS’\n- WDProxkey tokens: Start with ‘WD’\n- Mtoken/Crypto tokens: Start with ‘CL’\nRefer to: <a href=\"https://www.certificate.digital/download/how-to-identify-series-tokens.pdf\" target=\"_blank\">How to identify token series (PDF)</a>"
+  },
+  "Question87": {
+    "questions": [
+      "Can Partners have access to the approval system to approve orders themselves?"
+    ],
+    "answer": "No, Capricorn cannot outsource its approval system to any Partners, Resellers, or Associates, as this would be against the CCA guidelines. All approvals must be handled directly by Capricorn CA to ensure compliance."
+  },
+  "Question88": {
+    "questions": [
+      "I have an HYP token, but the token is locked. What can I do?"
+    ],
+    "answer": "As per CCA guidelines, the only option is token initialization, which deletes the existing certificate.\nContact HYPER Helpline at 0712-6638888 to initiate.\nThen log in to the Customer Portal > Re-download > Enable Redownload, and download the DSC via Cash Solution."
+  },
+  "Question89": {
+    "questions": [
+      "I made a payment, but it is still pending. What can I do?"
+    ],
+    "answer": "Send an email with the Order ID and Transaction ID to <a href=\"mailto:backoff@capricornid.com\">backoff@capricornid.com</a>."
+  },
+  "Question90": {
+    "questions": [
+      "How to reject the order?"
+    ],
+    "answer": "Log in to <a href=\"https://secure.certificate.digital/\" target=\"_blank\">https://secure.certificate.digital/</a>, go to the dashboard, click 'Reject', mention the reason, and submit.\nIf the order is already verified, email <a href=\"mailto:backoff@capricornid.com\">backoff@capricornid.com</a> with the reason."
+  },
+  "Question91": {
+    "questions": [
+      "Getting error while processing order: Error! Order not allowed for one/all of the details (accompany name, applicant name, email) [RESERVATED LIST]."
+    ],
+    "answer": "Please check the Gmail/email spelling in the order details and correct it."
+  },
+  "Question92": {
+    "questions": [
+      "How to add a partner under my login?"
+    ],
+    "answer": "Log in to <a href=\"https://www.capricornca.com/bp/login/\" target=\"_blank\">https://www.capricornca.com/bp/login/</a>, go to the dashboard under 'Promote DSC Sale', click 'Registration link', and enter your partner’s details.\nNote: Minimum 20 DSCs must be created and downloaded from your BP login before you get access to this option."
+  },
+  "Question93": {
+    "questions": [
+      "How to revoke DSC?"
+    ],
+    "answer": "Follow the steps in this document: <a href=\"https://drive.google.com/file/d/19NptPOqgm9re4CU99DGKbE-CcYCnkm3P/view\" target=\"_blank\">Revocation Guide (PDF)</a>"
+  },
+  "Question94": {
+    "questions": [
+      "How can I obtain the old encryption certificate in .pfx format?"
+    ],
+    "answer": "Log in to <a href=\"https://secure.certificate.digital/\" target=\"_blank\">https://secure.certificate.digital/</a>, select 'Encryption-PFX-Download'.\nA 30-second video is required as per IVG 2.0.\nUrgent downloads are paid, otherwise, you must wait for 20 days."
+  },
+  "Question95": {
+    "questions": [
+      "While creating BP under my login, getting error: PAN number already exists. Provide the solution."
+    ],
+    "answer": "This means the applicant already has a Capricorn login with that PAN.\nIf you're a Premium Partner and they want to be under your login, ask them to generate a transfer code from their account and use it to add them."
+  },
+  "Question97": {
+    "questions": [
+      "How to become a premium partner?"
+    ],
+    "answer": "For inquiries regarding Premium Partner registration, please contact your Account Manager or Relationship Manager for further assistance."
+  },
+  "Question98": {
+    "questions": [
+      "Who is my Account Manager and Relationship Manager?"
+    ],
+    "answer": "In your Business Partner profile, go to 'Manage Profile' > 'Support' to view contact details.\nIf not available, email <a href=\"mailto:backoff@capricornid.com\">backoff@capricornid.com</a> for assistance."
+  },
+  "Question99": {
+    "questions": [
+      "How can I transfer a partner under my login if I am a Premium Partner?"
+    ],
+    "answer": "Partner must generate a transfer code from their profile: Manage Profile > Settings > Generate Transfer Code.\nIt will be available after 7 days.\nThen log in to your BP account > Quick Links > Apply Transfer Code.\nFor help, contact your Account Manager or email <a href=\"mailto:backoff@capricornid.com\">backoff@capricornid.com</a>."
+  },
+  "Question100": {
+    "questions": [
+      "One of my orders has been verified, now I want to reject it. What can I do?"
+    ],
+    "answer": "Send an email with the Order ID and reason for rejection to <a href=\"mailto:backoff@capricornid.com\">backoff@capricornid.com</a>."
+  },
+  "Question101": {
+    "questions": [
+      "While downloading the DSC I get an error: 'Invalid details provided'"
+    ],
+    "answer": "Log in to <a href=\"https://secure.certificate.digital/app/login/?ekyclogin\" target=\"_blank\">https://secure.certificate.digital/app/login/?ekyclogin</a>, click 'Download DSC', and verify that all details and the download key are correct and updated."
+  },
+  "Question102": {
+    "questions": [
+      "How to add GST no. in the Business Partner profile?"
+    ],
+    "answer": "Log in to <a href=\"https://www.capricornca.com/bp/login/\" target=\"_blank\">https://www.capricornca.com/bp/login/</a>, go to 'Profile' > 'Manage Profile' > 'Organisation' > Edit.<br/>\nIf your login is verified, email backoff@capricornid.com to request GST addition."
+  },
+  "Question103": {
+    "questions": [
+      "How to import an encryption DSC into a token?"
+    ],
+    "answer": "Follow this document: <a href=\"https://drive.google.com/file/d/1DmPE-UoT7XlaBRWHSivk6ntLLiBQnfXM/view?usp=sharing\" target=\"_blank\">https://drive.google.com/file/d/1DmPE-UoT7XlaBRWHSivk6ntLLiBQnfXM/view?usp=sharing</a>"
+  },
+  "Question104": {
+    "questions": [
+      "How to download the DSC?"
+    ],
+    "answer": "Follow this guide: <a href=\"https://drive.google.com/file/d/1V7aiySE-hDtAeNpgzwIbCs0gIgjJ1adc/view?usp=drive_link\" target=\"_blank\">https://drive.google.com/file/d/1V7aiySE-hDtAeNpgzwIbCs0gIgjJ1adc/view?usp=drive_link</a>"
+  },
+  "Question105": {
+    "questions": [
+      "How to do video verification?"
+    ],
+    "answer": "Log in to <a href=\"https://secure.certificate.digital\" target=\"_blank\">https://secure.certificate.digital</a>, go to the 'Action' tab and select 'Video Verification'.<br/>\nAlternatively, use the CAPRICORN CUSTOMER app on Android or iOS to record the video."
+  },
+  "Question106": {
+    "questions": [
+      "How to upload documents?"
+    ],
+    "answer": "Log in to <a href=\"https://secure.certificate.digital/app/login/\" target=\"_blank\">https://secure.certificate.digital/app/login/</a>, click on 'Action', and upload the documents as per the required list."
+  },
+  "Question107": {
+    "questions": [
+      "Why is it required to Show Documents in Video while applying with Existing Ekyc?"
+    ],
+    "answer": "As the eKYC validity is extended to 2 years, it is mandatory to show the documents in the video."
+  },
+  "Question108": {
+    "questions": [
+      "How to get the letter format?"
+    ],
+    "answer": "Go to the repository: <a href=\"https://www.certificate.digital/digital-repository/\" target=\"_blank\">https://www.certificate.digital/digital-repository/</a> and check the 'Letter Format' section."
+  },
+  "Question109": {
+    "questions": [
+      "How to track token status?"
+    ],
+    "answer": "The tracking ID is sent to your registered email. Use that ID to check the token status."
+  },
+  "Question110": {
+    "questions": [
+      "How to get the signatory approval for the employee order?"
+    ],
+    "answer": "The authorized signatory must log in to <a href=\"https://secure.certificate.digital/app/login/?ekyclogin\" target=\"_blank\">https://secure.certificate.digital/app/login/?ekyclogin</a>, enter eKYC ID and PIN, then go to 'Employee' section to approve."
+  },
+  "Question111": {
+    "questions": [
+      "How to know the earned commission for an order id?"
+    ],
+    "answer": "In your BP login, go to 'Accounts' > 'Earned Revenue' to see commission details for any downloaded order ID."
+  },
+  "Question112": {
+    "questions": [
+      "I want to download the DSC, but the Cash Solution is not responding."
+    ],
+    "answer": "Uninstall all token drivers from your system, then reinstall only the driver for your token. After that, reopen Cash Solution and download the DSC."
+  },
+  "Question113": {
+    "questions": [
+      "Getting the error 'eKYC is already used in another eKYC account'"
+    ],
+    "answer": "Create a new, unique eKYC ID (must be alphanumeric) — you can use a combination of the client's name and numbers."
+  },
+  "Question114": {
+    "questions": [
+      "An error 'Mobile and email already used by another person' is showing up."
+    ],
+    "answer": "Log in using the same mobile/email at <a href=\"https://secure.certificate.digital/app/login/\" target=\"_blank\">https://secure.certificate.digital/app/login/</a>. If name mismatch exists, use the same name as shown, or close the eKYC ID to reuse mobile/email."
+  },
+  "Question115": {
+    "questions": [
+      "How to update the download key?"
+    ],
+    "answer": "Log in to <a href=\"https://secure.certificate.digital/app/login/?ekyclogin\" target=\"_blank\">https://secure.certificate.digital/app/login/?ekyclogin</a>. Make sure your subscriber agreement is e-signed, then click 'Download DSC' and update your download key."
+  },
+  "Question116": {
+    "questions": [
+      "How to complete e-sign in order status (subscriber agreement)?"
+    ],
+    "answer": "Log in to <a href=\"https://secure.certificate.digital/app/login/?ekyclogin\" target=\"_blank\">https://secure.certificate.digital/app/login/?ekyclogin</a>, then click on 'Form and Agreement eSign'."
+  },
+  "Question117": {
+    "questions": [
+      "The provided password of the pfx file does not support it. How to change or modify the password?"
+    ],
+    "answer": "Follow this guide to change the password: <a href=\"https://www.certificate.digital/download/how-to-export-pfx.pdf\" target=\"_blank\">https://www.certificate.digital/download/how-to-export-pfx.pdf</a>"
+  },
+  "Question118": {
+    "questions": [
+      "Please Share authorization letter format For Government DSC"
+    ],
+    "answer": "Here Below is the Format Of authorization letter of Government Digital signature \n\n<a href=\"https://www.certificate.digital/download/govt-authorization-letter.docx\" target=\"_blank\">https://www.certificate.digital/download/govt-authorization-letter.docx</a>"
+  },
+  "Question119": {
+    "questions": [
+      "How To Generate Digital signature ?"
+    ],
+    "answer": "Please visit www.certificate.digital > Buy Certificate > Choose your certificate > Then Please  Digital signature  \n\nPlease go through this link \n<a href=\"https://secure.certificate.digital/buy-digital-signature/?_gl=1*1i8w9o0*_gcl_au*OTY4MjY0NDg4LjE3NDA5OTEyMTk.*_ga*MTE2NzQ2MzgxOS4xNzI1MjY3MjQx*_ga_M4XNBSZ6MZ*MTc0NDQ1OTQxNC4xMzEuMC4xNzQ0NDU5NDE0LjYwLjAuMA..\" target=\"_blank\">https://secure.certificate.digital/buy-digital-signature/?_gl=1*1i8w9o0*_gcl_au*OTY4MjY0NDg4LjE3NDA5OTEyMTk.*_ga*MTE2NzQ2MzgxOS4xNzI1MjY3MjQx*_ga_M4XNBSZ6MZ*MTc0NDQ1OTQxNC4xMzEuMC4xNzQ0NDU5NDE0LjYwLjAuMA..</a>"
+  },
+  "Question120": {
+    "questions": [
+      "Want to make DSC ?"
+    ],
+    "answer": "Please visit www.certificate.digital > Buy Certificate > Choose your certificate > Then Please  Digital signature  \n\nPlease go through this link \n<a href=\"https://secure.certificate.digital/buy-digital-signature/?_gl=1*1i8w9o0*_gcl_au*OTY4MjY0NDg4LjE3NDA5OTEyMTk.*_ga*MTE2NzQ2MzgxOS4xNzI1MjY3MjQx*_ga_M4XNBSZ6MZ*MTc0NDQ1OTQxNC4xMzEuMC4xNzQ0NDU5NDE0LjYwLjAuMA..\" target=\"_blank\">https://secure.certificate.digital/buy-digital-signature/?_gl=1*1i8w9o0*_gcl_au*OTY4MjY0NDg4LjE3NDA5OTEyMTk.*_ga*MTE2NzQ2MzgxOS4xNzI1MjY3MjQx*_ga_M4XNBSZ6MZ*MTc0NDQ1OTQxNC4xMzEuMC4xNzQ0NDU5NDE0LjYwLjAuMA..</a>"
+  },
+  "Question121": {
+    "questions": [
+      "Please share Board of resolution Format"
+    ],
+    "answer": "Here Below is the Format Of  Board of Resolution For Digital signature \n\n<a href=\"https://docs.google.com/document/d/1PpcHPYYDxtOE2X206_twFdsOe_RCXarN/edit?usp=sharing&ouid=112887707182289304837&rtpof=true&sd=true\" target=\"_blank\">https://docs.google.com/document/d/1PpcHPYYDxtOE2X206_twFdsOe_RCXarN/edit?usp=sharing&ouid=112887707182289304837&rtpof=true&sd=true</a>"
+  },
+  "Question122": {
+    "questions": [
+      "How To record video , I did not received any specific link  ?"
+    ],
+    "answer": "Please Login via mobile Or Email in below link \n\n<a href=\"https://secure.certificate.digital/app/login/\" target=\"_blank\">https://secure.certificate.digital/app/login/</a>\n\nAfter Successful Login > Record Tab > You can Record Or make Video There OR You can make video from our application  Capricorn Customer Application ( Download from the Play store )"
+  },
+  "Question123": {
+    "questions": [
+      "What should I mentioned in Download key option ?"
+    ],
+    "answer": "Download key must be alphanumeric \nFor Example : abc123  \n\nimportant Note = Download key Minimum length From 5 to maximum 8 Characters."
+  },
+  "Question124": {
+    "questions": [
+      "Payment for Digital signature ?"
+    ],
+    "answer": "Log in to the Customer Portal, click on Action > Payment, and complete the payment. The payment option appears after Order Verification."
+  },
+  "Question125": {
+    "questions": [
+      "How To renew the Digital Signature ?"
+    ],
+    "answer": "Log in to the Customer Portal via EKYC Option , You will get the renewal tab there . \n\nYou can Renew from There"
+  },
+  "Question126": {
+    "questions": [
+      "who are you?"
+    ],
+    "answer": "I'm the chat bot"
+  },
+  "Question127": {
+    "questions": [
+      "how to apply individual DSC"
+    ],
+    "answer": "click on the given link and select the individual product to create individual digital signature certificate / DSC\nApply here: <a href=\"https://secure.certificate.digital/buy-digital-signature\" target=\"_blank\">https://secure.certificate.digital/buy-digital-signature</a>"
+  },
+  "Question128": {
+    "questions": [
+      "how to do e-sign if payment is clear?"
+    ],
+    "answer": "Answer :Log in to the Customer Portal at <a href=\"https://secure.certificate.digital/app/login/?ekyclogin.\" target=\"_blank\">https://secure.certificate.digital/app/login/?ekyclogin.</a>\nClick on \"Form and Agreement eSign\" to initiate the e-signature process.\n\nEnter the eKYC ID and kyc pin to access your account.\nClick to  sign the agreement option \nOnce signed, the agreement will be updated to reflect the e-signature status."
+  }
+}
